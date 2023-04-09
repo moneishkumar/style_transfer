@@ -1,0 +1,9 @@
+dataset:
+  scene:
+    type: tnt
+    name: Family
+    basedir: /home/moneish/style_transfer/data/tnt/
+    split: train
+  style:
+    basedir: /home/moneish/style_transfer/data/styles/
+    num_styles: 2
