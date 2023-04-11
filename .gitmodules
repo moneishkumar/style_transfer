@@ -1,0 +1,3 @@
+[submodule "3rd_party/baseline"]
+	path = 3rd_party/baseline
+	url = https://github.com/ztex08010518/Stylizing-3D-Scene.git
