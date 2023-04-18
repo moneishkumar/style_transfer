@@ -1,3 +1,6 @@
 /data/*
 *.pyc
 *.log
+events.*
+*.png
+*.JPG
